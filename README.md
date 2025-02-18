@@ -28,4 +28,3 @@ A simple Python port scanner that allows you to scan either a single target or m
 [*] Enter Targets To Scan (split them by ,): 192.168.0.1
 [*] Enter How Many Ports You Want To Scan: 100
  ```
-## Thank you
